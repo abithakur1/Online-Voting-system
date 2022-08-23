@@ -195,17 +195,3 @@ Copyright © 2017-present DEMOCRACY Deutschland e.V.. This source code is licens
 
 [BrowserStack](http://www.browserstack.com) is supporting DEMOCRACY, allowing us to use their service. Thank you for supporting the open source community! ❤️
 
----
-
-Made with ♥ by Team DEMOCRACY ([democracy-deutschland.de](https://www.democracy-deutschland.de)), [startnext contributors](https://www.startnext.com/democracy/unterstuetzer/) and [contributors](https://github.com/demokratie-live/democracy-client/graphs/contributors)
-
-[node]: https://nodejs.org
-[yarn]: https://yarnpkg.com
-[js]: https://developer.mozilla.org/docs/Web/JavaScript
-[babel]: http://babeljs.io/
-[reactnative]: http://www.reactnative.com/
-[android]: https://developer.android.com/studio/index.html
-[jest]: http://facebook.github.io/jest/
-[wix]: https://github.com/wix/react-native-navigation
-[styledcomponents]: https://github.com/styled-components/styled-components
-"# Online-Voting-system" 
